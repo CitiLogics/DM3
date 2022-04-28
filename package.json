@@ -12,7 +12,7 @@
     "test": "run-p --race dev cy:run"
   },
   "dependencies": {
-    "async": "^2.6.1",
+    "async": "^2.6.4",
     "bootstrap": "^4.3.1",
     "compression": "^1.7.1",
     "css-loader": "^1.0.0",
